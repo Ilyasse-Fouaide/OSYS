@@ -30,7 +30,7 @@ function setRandomBackground() {
   flexHorizontal.style.backgroundImage = `linear-gradient(270deg, rgba(0, 0, 0, 0.384) 0%, rgba(0, 0, 0, 0.548) 100%), url("${randomImage}")`;
 }
 
-setRandomBackground();
+// setRandomBackground();
 
 // window.onscroll = () => {
 //   sections.forEach((section) => {

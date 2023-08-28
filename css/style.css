@@ -37,9 +37,8 @@ section {
   flex-direction: column;
   width: 100%;
   padding: 10px 16px;
-  /* background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.2)0%, rgba(0, 0, 0, 0.4)100%),
-    url("../assets/img/home-page-bg.jpg"); */
-  background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.2)0%, rgba(0, 0, 0, 0.4)100%);
+  background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.2)0%, rgba(0, 0, 0, 0.4)100%),
+    url("../assets/img/home-page-bg.jpg");
   -webkit-filter: grayscale(50%);
   background-size: cover;
   background-position: bottom;

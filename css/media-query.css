@@ -21,6 +21,8 @@
 @media (max-width: 780px) {
 
   .flex-horizontal {
+    background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.2)0%, rgba(0, 0, 0, 0.4)100%),
+      url("../assets/img/home-780px.jpg");
     -webkit-filter: grayscale(0%);
   }
 
@@ -93,6 +95,8 @@
 
 @media (max-width: 480px) {
   .flex-horizontal {
+    background-image: linear-gradient(270deg, rgba(0, 0, 0, 0.2)0%, rgba(0, 0, 0, 0.4)100%),
+      url("../assets/img/photo_1869265_1680541394_51783.jpg");
     -webkit-filter: grayscale(0%);
   }
 
